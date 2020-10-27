@@ -1,0 +1,20 @@
+{
+    "Author": "Nemanja.Jovic",
+    "ContentSize": 4510,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/resource-provider-comparison-support-ea-to-csp-migration/master/Compare-EaToCsp.ps1",
+    "DownloadCount": 309,
+    "Id": "Resource-provider-be39fc79",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 235,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2019-10-22T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Migrating customer from EA to CSP subscription type? It's the right place to enhance and support the migration.In case you want your migration to fly smoothly, it's wise to check all possible obstacles in advance.Powershell function which is meant to help you in identifying poten",
+    "Title": "Resource provider comparison support - EA to -> CSP Migration",
+    "UpdatedDate": "2019-10-22T00:00:00",
+    "Url": "https://github.com/azureautomation/resource-provider-comparison-support-ea-to-csp-migration",
+    "UserTags": "Microsoft Azure, Powershell, Powershell Script"
+}
